@@ -2,6 +2,8 @@
 
 The AXTabWithAnimation is a demo demonstrates how to make a custom container view controller.
 
+![alt tag](https://github.com/naverdant/AXTabWithAnimation/blob/master/1499938019860.jpg)
+
 ## Reference
 [Apple Developer Official Guide](https://developer.apple.com/library/content/featuredarticles/ViewControllerPGforiPhoneOS/ImplementingaContainerViewController.html)
 
